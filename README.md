@@ -1,12 +1,25 @@
-<p align="center"><img src="icon.png" width="128" alt="CamWindow icon"></p>
+<div align="center">
+
+<img src="icon.png" width="128" alt="CamWindow icon">
 
 # CamWindow
 
-一个极简的 macOS 悬浮摄像头窗口，专为录屏教程设计。
+**极简的 macOS 悬浮摄像头窗口，专为录屏教程设计**<br>
+中心裁切不变形 · 无边框圆角 · 始终置顶 · 开源免费
+
+[![macOS](https://img.shields.io/badge/macOS-11+-000000?logo=apple&logoColor=white)](#安装)
+[![Swift](https://img.shields.io/badge/Swift-%E5%8D%95%E6%96%87%E4%BB%B6-F05138?logo=swift&logoColor=white)](CamWindow.swift)
+[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/aa1143/CamWindow?style=social)](https://github.com/aa1143/CamWindow/stargazers)
+[![X](https://img.shields.io/badge/@antiAIvo-000000?logo=x&logoColor=white)](https://x.com/antiAIvo)
+
+[安装](#安装) · [使用](#使用) · [常见问题](#常见问题) · [作者 𝕏](https://x.com/antiAIvo)
+
+<img src="demo.gif" alt="CamWindow 演示：右键菜单切换 3:4、9:16、1:1 等画面比例" width="100%">
+
+</div>
 
 Mac 自带摄像头输出的是 16:9 横屏画面，市面上的工具大多只能原比例显示，或者只有圆形头像框。CamWindow 只截取画面中间的一块（比如 3:4 竖屏），**不拉伸、不变形**，窗口始终置顶，可以无边框带圆角，录屏时放在角落刚好。
-
-<p align="center"><img src="demo.gif" alt="CamWindow 演示：右键菜单切换 3:4、9:16、1:1 等画面比例" width="100%"></p>
 
 ## 功能
 
