@@ -1,10 +1,12 @@
+<p align="center"><img src="icon.png" width="128" alt="CamWindow icon"></p>
+
 # CamWindow
 
 一个极简的 macOS 悬浮摄像头窗口，专为录屏教程设计。
 
 Mac 自带摄像头输出的是 16:9 横屏画面，市面上的工具大多只能原比例显示，或者只有圆形头像框。CamWindow 只截取画面中间的一块（比如 3:4 竖屏），**不拉伸、不变形**，窗口始终置顶，可以无边框带圆角，录屏时放在角落刚好。
 
-<!-- 在这里放一张效果截图：![screenshot](screenshot.png) -->
+<p align="center"><img src="demo.gif" alt="CamWindow 演示：右键菜单切换 3:4、9:16、1:1 等画面比例" width="100%"></p>
 
 ## 功能
 
